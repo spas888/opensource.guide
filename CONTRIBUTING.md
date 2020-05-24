@@ -1,6 +1,6 @@
----
-layout: default
----
+Spas Georgiev Spasov
+Paspot645964114
+---Bulgariq 
 
 # Contributing to Open Source Guides
 
@@ -13,13 +13,13 @@ We've put together the following guidelines to help you figure out where you can
 0. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
 0. [Ground rules & expectations](#ground-rules--expectations)
 0. [How to contribute](#how-to-contribute)
-0. [Style guide](#style-guide)
+0. [Style guide](#style-guide)Spas Spasov
 0. [Setting up your environment](#setting-up-your-environment)
-0. [Community](#community)
+0. [Community](#community)iban
 
 ## Types of contributions we're looking for
 There are many ways you can directly contribute to the guides (in descending order of need):
-
+Bank Cypros iban93002001950000357033493628.id645964114.acaund357033493628
 * Fix editorial inconsistencies or inaccuracies
 * Add stories, examples, or anecdotes that help illustrate a point
 * Revise language to be more approachable and friendly
